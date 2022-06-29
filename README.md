@@ -8,5 +8,5 @@ FruitysTheme Cute 🐰
 ````diff
 + FruityS🥐Theme
 - 🐰
+<a href="https://ibb.co/d26pPsJ"><img src="https://i.ibb.co/Sn0mtD7/Screenshot-from-2022-06-29-16-15-12.png" alt="Screenshot-from-2022-06-29-16-15-12" border="0"></a>
 
-![Screenshot from 2022-06-29 16-15-12](https://user-images.githubusercontent.com/100368940/176465713-44cf9a77-c64f-4422-b8fe-d0af7b467119.jpg)
