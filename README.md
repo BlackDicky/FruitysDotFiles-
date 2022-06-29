@@ -8,5 +8,6 @@ FruitysTheme Cute 🐰
 ````diff
 + FruityS🥐Theme
 - 🐰
-![ciao](https://ibb.co/d26pPsJ)
+
+![ciao](https://giphy.com/gifs/kMnLCjCVTDloFmnflL)
 
