@@ -9,5 +9,5 @@ FruitysTheme Cute 🐰
 + FruityS🥐Theme
 - 🐰
 
-![ciao](https://giphy.com/gifs/kMnLCjCVTDloFmnflL)
+![ciao](https://media.giphy.com/media/kMnLCjCVTDloFmnflL/giphy.gif)
 
