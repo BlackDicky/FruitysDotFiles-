@@ -10,4 +10,4 @@ FruitysTheme Cute 🐰
 - 🐰
 
 
- file:///home/fruity/Immagini/Screenshots/Screenshot%20from%202022-06-29%2016-15-08.png
+![My Image] (file:///home/fruity/Immagini/Screenshots/Screenshot%20from%202022-06-29%2016-15-08.png)
