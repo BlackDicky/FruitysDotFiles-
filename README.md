@@ -9,4 +9,5 @@ FruitysTheme Cute 🐰
 + FruityS🥐Theme
 - 🐰
 
-![Alt text](http://full/path/to/Screenshot from 2022-06-29 16-15-08.png "Optional title")
+
+![Alt text](/relative/path/to/Screenshot from 2022-06-29 16-15-08.png?raw=true "Optional Title")
