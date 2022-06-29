@@ -9,4 +9,4 @@ FruitysTheme Cute 🐰
 + FruityS🥐Theme
 - 🐰
 
-![Alt text](http://full/path/to/img.jpg "Optional title")
+![Alt text](http://full/path/to/Screenshot from 2022-06-29 16-15-08.png "Optional title")
